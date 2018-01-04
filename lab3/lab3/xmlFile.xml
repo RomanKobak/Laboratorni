@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SportFestival>
+    <Team
+            id="1"
+            name="Do or die"
+            sportType="1" >
+
+        <SportsMan
+                name="Andrii"
+                surname="Mykush"
+                sportType="1"
+                result="100"
+                fine="0" />
+
+        <SportsMan
+                name="Rob"
+                surname="Jonson"
+                sportType="1"
+                result="90"
+                fine="0" />
+    </Team>
+
+    <Team
+            id="2"
+            name="Motorcycle club"
+            sportType="2" >
+
+        <SportsMan
+                name="William"
+                surname="Wood"
+                sportType="2"
+                result="100"
+                fine="0" />
+
+        <SportsMan
+                name="Brian"
+                surname="Jordan"
+                sportType="2"
+                result="80"
+                fine="20" />
+
+        <SportsMan
+                name="Bruce"
+                surname="Wayne"
+                sportType="2"
+                result="100"
+                fine="0" />
+    </Team>
+
+    <Team
+            id="3"
+            name="Ancients"
+            sportType="3" >
+
+        <SportsMan
+                name="William"
+                surname="Wood"
+                sportType="2"
+                result="100"
+                fine="0" />
+
+        <SportsMan
+                name="Brian"
+                surname="Jordan"
+                sportType="2"
+                result="80"
+                fine="20" />
+
+        <SportsMan
+                name="Bruce"
+                surname="Wayne"
+                sportType="2"
+                result="100"
+                fine="0" />
+    </Team>
+</SportFestival>

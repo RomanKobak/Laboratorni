@@ -1,0 +1,15 @@
+Index|Weather|Temperature|Humidity|Wind|Class
+1|Raining|Hot|High|No|No
+2|Sunny|Hot|High|Yes|No
+3|Cloudy|Hot|High|No|Yes
+4|Raining|Moderate|High|Yes|Yes
+5|Raining|Cold|Normal|No|Yes
+6|Raining|Cold|Normal|Yes|No
+7|Cloudy|Cold|Normal|Yes|Yes
+8|Sunny|Moderate|High|No|No
+9|Sunny|Cold|Normal|No|Yes
+10|Raining|Moderate|Normal|No|Yes
+11|Sunny|Moderate|Normal|Yes|Yes
+12|Cloudy|Moderate|High|Yes|Yes
+13|Cloudy|Hot|Normal|No|Yes
+14|Raining|Moderate|High|Yes|Yes
